@@ -2,7 +2,6 @@
 
 Bài hướng dẫn này chủ yếu dành cho việc cài đặt để đào **SixGPT ($SIX)** trên Linux. Nếu bạn muốn chạy trên Windows, vui lòng tìm hiểu thêm về **Docker Desktop** và **WSL 2**.
 
-Faucet nhận **$VANA**: [https://faucet.vana.org/moksha](https://faucet.vana.org/moksha)
 
 ---
 
