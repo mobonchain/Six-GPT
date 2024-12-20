@@ -27,7 +27,7 @@ Trước khi thực hiện các bước cài đặt, bạn cần:
 2. **Thiết Lập Biến Môi Trường**
    Tạo file `.env` với nội dung sau:
    ```bash
-   echo -e "VANA_PRIVATE_KEY=0x_demo_privatekey\nVANA_NETWORK=moksha\nOLLAMA_API_URL=http://ollama:11434/api" > .env
+   echo -e "VANA_PRIVATE_KEY=0x_demo_privatekey\nVANA_NETWORK=mainet\nOLLAMA_API_URL=http://ollama:11434/api" > .env
    ```
 
    - Thay thế `0x_demo_privatekey` bằng **Private Key** của ví bạn.
